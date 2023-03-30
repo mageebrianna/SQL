@@ -38,4 +38,4 @@ INSERT INTO clothing VALUES (14, "Winter Coat" , 7 , 5 , 2 , 49.99);
 INSERT INTO clothing VALUES (15, "Overalls" , 22 , 10 , 12 , 36.98);
 
 SELECT * FROM clothing;
-SELECT MAX(price) from clothing;
+SELECT MAX(price) from clothing; 
